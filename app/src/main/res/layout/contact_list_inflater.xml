@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardElevation="@dimen/dp5"
+    card_view:cardBackgroundColor="@color/white"
+    card_view:cardCornerRadius="@dimen/dp3"
+    card_view:cardUseCompatPadding="true">
+
+    <RelativeLayout
+        android:id="@+id/layoutContact"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/dp10"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/ivDelete"
+            android:layout_alignParentLeft="true"
+            android:gravity="center_vertical|left"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvContactName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:gravity="left|center_vertical"
+                android:text="Gaurav Dubey"
+                android:textColor="@color/colorPrimary"
+                android:textSize="@dimen/sp16" />
+
+            <TextView
+                android:id="@+id/tvContactId"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="@dimen/dp5"
+                android:gravity="left|center_vertical"
+                android:text="8745010592"
+                android:textColor="@color/textColor"
+                android:textSize="@dimen/sp14" />
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/ivDelete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:fitsSystemWindows="true"
+            android:layout_centerVertical="true"
+            android:adjustViewBounds="true"
+            android:foregroundGravity="center_vertical|right"
+            android:src="@drawable/icon_trash" />
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

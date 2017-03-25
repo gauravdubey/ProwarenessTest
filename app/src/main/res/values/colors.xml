@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#39bee9</color>
+    <color name="colorPrimaryDark">#009fce</color>
+    <color name="colorAccent">#e3e0e0</color>
+    <color name="colorGrayNavigation">#e3e0e0</color>
+    <color name="colorBlueNavigation">#39bee9</color>
+    <color name="colorBlueNavigationSelected">#009fce</color>
+    <color name="coloGrayText">#5c5c5c</color>
+    <color name="pad_button_ripple_color">#33FFFFFF</color>
+    <color name="textviewSolid">#05000000</color>
+    <color name="textviewBorder">#0d000000</color>
+    <color name="warm_grey">#959595</color>
+    <color name="hintColor">#959595</color>
+    <color name="transparentnumbertextcolor">#804B4B4B</color>
+    <color name="transparentcolorPrimary">#803db5ea</color>
+    <color name="semiColorPrimary">#7F23beec</color>
+    <color name="textColor">#5d5d5d</color>
+    <color name="tab_normal_color">#5d5d5d</color>
+    <color name="tab_selected_color">#0f0f0f</color>
+    <color name="gradout_color">#7f0f0f0f</color>
+    <color name="color_black">#0f0f0f</color>
+    <color name="black_variant_1">#333333</color>
+    <color name="color_card_bg">#f5f2f2</color>
+    <color name="color_recharge_bg">#f7f3f3</color>
+    <color name="color_edittext_border">#c4c4c4</color>
+    <color name="color_app_title">#0b9dc8</color>
+    <color name="color_line">#c4c4c4</color>
+    <color name="semi_black">#66000000</color>
+    <color name="more_semi_black">#19000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="hint_color">#b6b5b5</color>
+    <color name="blue">#2373ce</color>
+    <color name="grey_variant_2">#dcdcdc</color>
+    <color name="proceedtouched">#1E90FF</color>
+
+    <color name="tutorial_indicator_circle_background_color">#b9b9b9</color>
+    <color name="tutorial_indicator_circle_tansition_color">#373737</color>
+
+</resources>

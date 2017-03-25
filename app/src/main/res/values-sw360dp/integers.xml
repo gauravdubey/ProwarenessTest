@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="profile_pic_width_height">200</integer>
+    <integer name="group_pic_width_height">200</integer>
+
+</resources>

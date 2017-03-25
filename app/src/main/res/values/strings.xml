@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProwarenessTestApp</string>
+    <string name="no_internet_title">Oops!</string>
+    <string name="no_internet_message">Please check your internet connection.</string>
+    <string name="no_message">Please enter message</string>
+    <string name="try_again">Try Again</string>
+    <string name="press_once_again_to_exit">Press once again to exit!</string>
+    <string name="contactListHeader">CONTACT LIST</string>
+    <string name="noData">No Contact Available</string>
+    <string name="error_message">Oops! There seems to be some problem. Please try again.</string>
+</resources>
